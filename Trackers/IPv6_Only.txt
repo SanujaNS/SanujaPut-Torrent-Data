@@ -113,3 +113,7 @@ https://cernet-tracker.appspot.com/announce
 udp://tracker.datacenterlight.ch:6969/announce
 
 http://tracker.datacenterlight.ch:6969/announce
+
+http://tracker.ipv6tracker.ru/announce
+
+udp://IPv6.open-internet.nl:6969/announce
