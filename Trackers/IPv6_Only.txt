@@ -118,25 +118,11 @@ http://tracker.ipv6tracker.ru/announce
 
 udp://IPv6.open-internet.nl:6969/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
-
-http://open-v6.demonoid.ch:6969/announce
-
-http://i-p-v-6.tk:6969/announce
-
-http://incine.ru:6969/announce
-
-http://ipv6.1337.cx:6969/announce
-
-http://ipv6.govt.hu:6969/announce
-
-http://jp.moeweb.pw:6969/announce
-
-http://movies.zsw.ca:6969/announce
-
-http://tracker.ipv6tracker.ru:80/announce
 
 udp://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 
